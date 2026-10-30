@@ -13,16 +13,16 @@ This repo will track my DSA question practice and learning progress.
 
 For each problem, I will follow a simple naming pattern:
 
-- `leetcode{number}.py`
-- `leetcode{number}.cpp`
+- `golani_leetcode{number}.py`
+- `golani_leetcode{number}.cpp`
 - or any other language file as needed
 
 Example:
 
-- `leetcode001.py`
-- `leetcode002.cpp`
+- `golani_leetcode001.py`
+- `golani_leetcode002.cpp`
 
-This keeps the repo organized and makes it easy to track solutions by question number.
+This keeps the repo organized and makes it easy to track solutions by question number while clearly identifying the contributor.
 
 ## Notes
 
